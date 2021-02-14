@@ -16,6 +16,6 @@ Sometimes we’ll want to build our programs into binaries. We can do this using
 
 Outputs: hello-world hello-world.go
 
-Then We can then execute the built binary directly. 
+Then we can then execute the built binary directly. 
 
 ``` ./hello-world ```
